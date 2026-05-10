@@ -1,3 +1,10 @@
+Como você está no curso de Engenharia de Software e já tem experiência com documentação de requisitos (como no projeto **REAGE**) e gestão de projetos (como no **Petshop**), o seu README precisa refletir esse profissionalismo.
+
+Aqui está uma estrutura completa e organizada em Markdown para o seu repositório:
+
+---
+
+```markdown
 # 📚 Sistema de Gerenciamento de Plano de Ensino (PED)
 
 Este projeto foi desenvolvido para a disciplina de **Programação Orientada a Objetos (POO)**. O sistema consiste em um CRUD completo para a gestão de planos de ensino, permitindo o controle de disciplinas, professores e usuários acadêmicos.
@@ -34,3 +41,21 @@ Para rodar o projeto localmente, certifique-se de ter o **JDK** instalado em sua
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/talitalima-tech/gerenciamento-plano-ensino.git](https://github.com/talitalima-tech/gerenciamento-plano-ensino.git)
+
+```
+
+2. Compile os arquivos:
+```bash
+javac src/*.java
+
+```
+
+
+3. Execute o sistema:
+```bash
+java src/SistemaGerenciamentoPED.java
+
+```
+
+
+
